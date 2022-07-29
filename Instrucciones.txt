@@ -1,0 +1,5 @@
+Se debe sincronizar la BD con Postgres , el DLL (Tablas usadas) estan en la carpeta database.
+El proyecto costa de todos los pasos execto los dos ultimos.
+Usar Postman o Insomnia para chequear el comportamiento de la Api.
+LA implementacion u ordenamiento de la carpetas del proyecto es basica , vista y basada de un curso en Youtube.
+Esta Orientado a Objetos.
